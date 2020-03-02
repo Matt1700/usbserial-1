@@ -20,5 +20,5 @@ flutter:
 
   plugin:
     android:
-      package: dev.tormec.usbserialfork
+      package: dev.tormec.usb_serial_fork
       pluginClass: UsbSerialPlugin

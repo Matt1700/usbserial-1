@@ -1,4 +1,4 @@
-group 'dev.tormec.usbserialfork'
+group 'dev.tormec.usb_serial_fork'
 version '1.0-SNAPSHOT'
 
 buildscript {
