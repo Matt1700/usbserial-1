@@ -1,4 +1,4 @@
-group 'dev.bessems.usbserial'
+group 'dev.tormec.usbserialfork'
 version '1.0-SNAPSHOT'
 
 buildscript {

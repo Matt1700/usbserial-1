@@ -12,13 +12,13 @@ Add a dependency to your pubspec.yaml
 
 ```dart
 dependencies:
-	usb_serial: ^0.2.3
+	usb_serial_fork: ^0.0.2
 ```
 
 include the usbserial package at the top of your dart file.
 
 ```dart
-import 'package:usb_serial/usb_serial.dart'
+import 'package:usb_serial/usb_serial_fork.dart'
 ```
 
 ### IMPORTANT app\build.gradle
